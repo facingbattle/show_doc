@@ -5,7 +5,7 @@
 
 > [地址](https://facingbattle.github.io/show_doc/#/mime)
 
-![扫雷](https://github.com/facingbattle/show_docs/img-storage/mime.png)
+![扫雷](https://github.com/facingbattle/show_doc/blob/master/docs/img-storage/mime.png?raw=true)
 
 ## 2. 蜘蛛纸牌
 
@@ -15,7 +15,7 @@
 - 双花色
 - 四花色
 
-![蜘蛛纸牌](https://github.com/facingbattle/show_docsimg-storage/poker.png)
+![蜘蛛纸牌](https://github.com/facingbattle/show_doc/blob/master/docs/img-storage/poker.png?raw=true)
 
 ## 3. 爬虫
 
@@ -24,4 +24,4 @@
 - node 爬虫
 - EChars 可视化
 
-![自如石景山租房信息 - 爬虫](https://github.com/facingbattle/show_doc/img-storage/reptile.png)
+![自如石景山租房信息 - 爬虫](https://github.com/facingbattle/show_doc/blob/master/docs/img-storage/reptile.png?raw=true)
